@@ -111,10 +111,15 @@
   - Publisher: Simon Siefke
   - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview]
 
-- TODO Highlight
+- TODO Highlight v2
   - Description: highlight TODOs, FIXMEs, and any keywords, annotations...
   - Publisher: Wayou Liu
   - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight]
+
+- Todo Tree
+  - Description: Show TODO, FIXME, etc. comment tags in a tree view
+  - Publisher: Gruntfuggly
+  - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree]
 
 - vscode-icons
   - Description: Icons for Visual Studio Code
