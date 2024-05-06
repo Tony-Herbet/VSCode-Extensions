@@ -26,6 +26,11 @@
   - Description: Makes indentation easier to read
   - Publisher: oderwat
   - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow]
+ 
+- Colorful Comments
+  - Description: Improve and Enhance your code and make it attractive by adding Colorful Comments
+  - Publisher: Parth Rastogi
+  - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=ParthR2031.colorful-comments]
 
 - colorize
   - Description: A vscode extension to help visualize css colors in files.
