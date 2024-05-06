@@ -2,6 +2,11 @@
 
 ## Miscellaneous  
 
+- Atom One Dark Theme
+  - Description: One Dark Theme based on Atom
+  - Publisher: Mahmoud Ali
+  - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark]
+
 - Auto Rename Tag
   - Description: Auto rename paired HTML/XML tag
   - Publisher: Jun Han
