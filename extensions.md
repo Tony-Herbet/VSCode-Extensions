@@ -191,6 +191,11 @@
   - Description: Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.
   - Publisher: Weijan Chen
   - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2]
+ 
+- Postman
+  - Description: Streamline API development and testing with the power of Postman, directly in your favorite IDE.
+  - Publisher: Postman
+  - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode
 
 - REST Client
   - Description: REST Client for Visual Studio Code
