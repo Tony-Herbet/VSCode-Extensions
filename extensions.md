@@ -140,6 +140,16 @@
   - Description: Display pdf file in VSCode.
   - Publisher: tomoki1207
   - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf]
+ 
+- vscode-prettydiff
+  - Description: PrettyDiff for VSCode 
+  - Publisher: HexcodeTechnologies
+  - VS Marketplace Link: [https://marketplace.visualstudio.com/items/?itemName=HexcodeTechnologies.vscode-prettydiff]
+
+- YAML
+  - Description: YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+  - Publisher: Red Hat
+  - VS Marketplace Link: [https://marketplace.visualstudio.com/items/?itemName=redhat.vscode-yaml]
 
 ## Git
 
@@ -309,6 +319,11 @@
   - Description: Snippets, Syntax Highlighting, Hover, and Formatting for Twig
   - Publisher: mblode
   - VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=mblode.twig-language]
+ 
+- Twig Language 2
+  - Description: Snippets, Syntax Highlighting, Hover, and Formatting for Twig
+  - Publisher: mblode
+  - VS Marketplace Link: [https://marketplace.visualstudio.com/items/?itemName=mblode.twig-language-2]
 
 ## Windows WSL
 
